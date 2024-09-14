@@ -1,0 +1,5 @@
+John Doe,0,2,false,true
+Jane Smith,1,1,true,false
+Alex Johnson,2,0,false,false
+Emily Davis,0,1,true,true
+Michael Brown,1,2,false,true
